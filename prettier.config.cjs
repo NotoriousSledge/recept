@@ -7,6 +7,6 @@ const config = {
   semi: true,
   bracketSpacing: false,
   singleQuote: true,
-}
+};
 
-module.exports = config
+module.exports = config;
